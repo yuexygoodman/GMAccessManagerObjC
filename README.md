@@ -1,0 +1,3 @@
+# GMAccessManagerObjC
+访问权限管理工具，objective-c版本
+# 正在开发中，敬请期待......
